@@ -1,2 +1,2 @@
 # SwiftMarathon
-Swift Marathon from iOS Development Course on https://vk.com/iosdevcourse
+Swift Marathon from Swift Development Course Beginner in iOS Development Course group on https://vk.com/iosdevcourse
